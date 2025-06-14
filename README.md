@@ -12,8 +12,6 @@ Features:
    
 4. Built entirely on Google Colab
    
-5. Extendable for real-time webcam input (future scope)
-
 Tech Stack:
 
 ->Tool	Use
