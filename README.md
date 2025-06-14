@@ -40,11 +40,9 @@ Mobile app integration,
 Larger dataset training on TPU.
 
 Author;
-
 Tanika C Thodker 
 
 Contact:
-
 Got ideas or feedback?
 
 tanikathodkar13@gmail.com
